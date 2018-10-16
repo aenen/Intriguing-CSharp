@@ -15,7 +15,9 @@ namespace __bin
             Home h = new Home();
             h.DoSomething();
 
-
+            Int32 int32;
+            UInt32 uint32;
+            Decimal @decimal;
         }
     }
     class Base
