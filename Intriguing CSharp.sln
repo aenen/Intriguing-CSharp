@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Changeable 'readonly' o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Calling 'constructor' inside 'constructor' - when you should do it", "07. Calling 'constructor' inside 'constructor' - when you should do it\07. Calling 'constructor' inside 'constructor' - when you should do it.csproj", "{A60DA2C2-99D3-4B6B-8301-A63D7EBF8D46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Simple things you CAN'T do in 'structures' - this may be shocking", "08. Simple things you CAN'T do in 'structures' - this may be shocking\08. Simple things you CAN'T do in 'structures' - this may be shocking.csproj", "{35F9DC48-3C07-47DD-8191-5164E8BD8720}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -62,6 +64,10 @@ Global
 		{A60DA2C2-99D3-4B6B-8301-A63D7EBF8D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A60DA2C2-99D3-4B6B-8301-A63D7EBF8D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A60DA2C2-99D3-4B6B-8301-A63D7EBF8D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F9DC48-3C07-47DD-8191-5164E8BD8720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F9DC48-3C07-47DD-8191-5164E8BD8720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F9DC48-3C07-47DD-8191-5164E8BD8720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F9DC48-3C07-47DD-8191-5164E8BD8720}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,10 +8,14 @@ namespace __bin
 {
     class Program
     {
+        volatile Int32 m_volatileTest;
+
         static void Main(string[] args)
         {
             Home h = new Home();
             h.DoSomething();
+
+
         }
     }
     class Base
@@ -32,6 +36,16 @@ namespace __bin
         public override void DoSomethingWithSomething()
         {
             Console.WriteLine("Home");
+        }
+    }
+
+    struct SomeValType
+    {
+        static Int32 s_field;
+
+        static SomeValType()
+        {
+
         }
     }
 }
