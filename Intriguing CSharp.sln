@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. 'Operator' overload - h
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 'Cast' operator overload - just a reminder", "10. 'Cast' operator overload - just a reminder\10. 'Cast' operator overload - just a reminder.csproj", "{4EE0374E-D1C8-4E29-B865-09A9F79A788C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. 'Partial' classes and methods - define now, implement later", "11. 'Partial' classes and methods - define now, implement later\11. 'Partial' classes and methods - define now, implement later.csproj", "{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -80,6 +82,10 @@ Global
 		{4EE0374E-D1C8-4E29-B865-09A9F79A788C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EE0374E-D1C8-4E29-B865-09A9F79A788C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EE0374E-D1C8-4E29-B865-09A9F79A788C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
