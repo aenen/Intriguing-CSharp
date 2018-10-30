@@ -18,6 +18,7 @@ namespace __bin
             Int32 int32;
             UInt32 uint32;
             Decimal @decimal;
+            System.Threading.Interlocked
         }
     }
     class Base

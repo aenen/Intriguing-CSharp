@@ -32,6 +32,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. 'Cast' operator overloa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. 'Partial' classes and methods - define now, implement later", "11. 'Partial' classes and methods - define now, implement later\11. 'Partial' classes and methods - define now, implement later.csproj", "{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Secure 'ref' and 'out' parameters - something about type safety", "12. Secure 'ref' and 'out' parameters - something about type safety\12. Secure 'ref' and 'out' parameters - something about type safety.csproj", "{CE02D1A6-040A-4A84-BB2A-A502FC433F90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -86,6 +88,10 @@ Global
 		{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E2B25F8-1C0D-442F-B3E9-A535681AAEFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE02D1A6-040A-4A84-BB2A-A502FC433F90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE02D1A6-040A-4A84-BB2A-A502FC433F90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE02D1A6-040A-4A84-BB2A-A502FC433F90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE02D1A6-040A-4A84-BB2A-A502FC433F90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
