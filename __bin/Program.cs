@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -18,7 +19,8 @@ namespace __bin
             Int32 int32;
             UInt32 uint32;
             Decimal @decimal;
-            System.Threading.Interlocked
+
+            var myprop=new Home().MyProperty;
         }
     }
     class Base
@@ -36,6 +38,17 @@ namespace __bin
     }
     class Home:Base
     {
+        private int myVar;
+
+        public int MyProperty
+        {
+            get
+            {
+                Debug.WriteLine("викликаний метод get властивості MyProperty");
+                return ++myVar;
+            }
+        }
+
         public override void DoSomethingWithSomething()
         {
             Console.WriteLine("Home");
