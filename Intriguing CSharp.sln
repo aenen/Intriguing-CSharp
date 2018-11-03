@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. 'Params' keyword - pass
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. 'Properties' and Visual Studio debugger - weird things he does", "14. 'Properties' and Visual Studio debugger - weird things he does\14. 'Properties' and Visual Studio debugger - weird things he does.csproj", "{D24C6199-446A-49C7-88D6-A0717FDCC473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. 'Anonymous' types - creating typeless objects", "15. 'Anonymous' types - creating typeless objects\15. 'Anonymous' types - creating typeless objects.csproj", "{1A10723E-1C4A-46CD-8FF4-3A5B04D481EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{D24C6199-446A-49C7-88D6-A0717FDCC473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D24C6199-446A-49C7-88D6-A0717FDCC473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D24C6199-446A-49C7-88D6-A0717FDCC473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A10723E-1C4A-46CD-8FF4-3A5B04D481EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A10723E-1C4A-46CD-8FF4-3A5B04D481EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A10723E-1C4A-46CD-8FF4-3A5B04D481EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A10723E-1C4A-46CD-8FF4-3A5B04D481EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
