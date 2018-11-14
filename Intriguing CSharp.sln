@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. How to use 'Events' - s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. 'Events' optimizer - reduce memory usage with this simple trick", "18. 'Events' optimizer - reduce memory usage with this simple trick\18. 'Events' optimizer - reduce memory usage with this simple trick.csproj", "{A94760C7-A310-4792-8C63-06307DA62543}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. Generic 'List' vs 'ArrayList' - speed test", "19. Generic 'List' vs 'ArrayList' - speed test\19. Generic 'List' vs 'ArrayList' - speed test.csproj", "{2480E2D4-0050-4C46-82B2-172B96382020}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{A94760C7-A310-4792-8C63-06307DA62543}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A94760C7-A310-4792-8C63-06307DA62543}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A94760C7-A310-4792-8C63-06307DA62543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2480E2D4-0050-4C46-82B2-172B96382020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2480E2D4-0050-4C46-82B2-172B96382020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2480E2D4-0050-4C46-82B2-172B96382020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2480E2D4-0050-4C46-82B2-172B96382020}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

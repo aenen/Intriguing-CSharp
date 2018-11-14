@@ -21,6 +21,8 @@ namespace __bin
             Decimal @decimal;
 
             var myprop=new Home().MyProperty;
+
+            Version version;
         }
     }
     class Base
